@@ -32,10 +32,10 @@ body {
     margin: 5px;
 }
 
-@mediascreen(max-width: 574px;) {
-    .card-img-overlay{
+@mediascreen(max-width: 800px;) {
+    .card-girl {
         top: 3px;
-        width: 30%;
+        width: 100%;
     }
 
 }
